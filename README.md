@@ -12,5 +12,3 @@ The app accepts four parameters that manipulate the random image:
 * Highlight
 
 The app can also export images in .png format at one of three resolutions (1920 x 1080), (1366 x 768), and (1280 x 1024).
-
-<iframe src="https://benradford.shinyapps.io/Interpolate/" style="border: none; width: 730px; height: 505px"></iframe>
