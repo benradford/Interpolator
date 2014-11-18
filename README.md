@@ -8,7 +8,7 @@ Implementation of color interpolation based on an inverse weights matrix in [R S
 The app accepts four parameters that manipulate the random image:
 * Number of starting colors
 * Distance matrix exponent
-* Resoltution
+* Resolution
 * Highlight
 
 The app can also export images in .png format at one of three resolutions (1920 x 1080), (1366 x 768), and (1280 x 1024).
